@@ -14,7 +14,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://github.com/AndriusCa/8-coming-soon
+Site published at: https://andriusca.github.io/10-fridayTest4/
 
 Design: [coming-soon](https://www.figma.com/file/ckVqD5CByyU7l2QwrNzuLJ/Untitled?type=design&node-id=0-1&t=IujIt6ixDsPrCohv-0)
 
@@ -53,7 +53,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
    ```sh
-   git clone https://andriusca.github.io/1-2astronautas/
+   git clone https://andriusca.github.io/10-fridayTest4/
    ```
 2. Install NPM packages
    ```sh
