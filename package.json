@@ -1,0 +1,16 @@
+{
+  "name": "10-fridaytest4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --host=localhost --port=4020",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Andrius",
+  "license": "MIT",
+  "dependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
