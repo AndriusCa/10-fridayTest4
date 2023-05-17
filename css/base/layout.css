@@ -74,13 +74,21 @@
 
 .container .duk{
   display: flex;
+  width: 100%;
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
+  width: 94rem;
+  margin: 0px calc(50% - 47rem)
 
 
 }
 
 .duk-text {
+  display: flex;
+  width: 50%;
+  box-sizing: border-box;
+  flex-direction: column;
+  text-align: center;
 
 }
